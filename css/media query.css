@@ -1,0 +1,23 @@
+@media screen and (max-width: 992px) {
+  .navbar-nav {
+    text-align: center;
+  }
+  .contact .info .item {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .navbar-nav {
+    text-align: center;
+  }
+  .navbar .navbar-nav > li > a {
+    padding: 10px !important;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .navbar-nav {
+    text-align: center;
+  }
+}
